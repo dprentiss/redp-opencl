@@ -6,6 +6,8 @@ This repository hosts the code associated with "Evacuation Route Modeling and Pl
 
 ## Code
 * /algorithmB
+
   An OpenCL implementation of Robert Dial's 'Algorithm B'
 * /python
+
   A python script to generate input text files for the REDP solvers
